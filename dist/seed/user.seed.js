@@ -1,6 +1,6 @@
 [{
   "id": 1,
-  "email": "joseherndez04@gmail.com",
+  "email": "lphan@shift3tech.com",
   "username": "Puch",
   "password": "abc123",
   "super_admin": true,
